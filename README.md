@@ -26,3 +26,11 @@ The computers will need some software installed for this to work.
 | 45-50 | Questions, and then hang out afterwards and be willing to answer all sorts of questions. |
 
 ## History
+
+## Sources
+
+- https://github.com/AdityaGupta1/waluig-IO
+
+## Possible Improvements
+
+See the issues section of the github repo.
