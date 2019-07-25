@@ -30,6 +30,7 @@ The computers will need some software installed for this to work.
 ## Sources
 
 - https://github.com/AdityaGupta1/waluig-IO
+- FAQ for the emulator https://nintaco.com/faq.html
 
 ## Possible Improvements
 
