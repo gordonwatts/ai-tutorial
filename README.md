@@ -8,15 +8,20 @@ Plan for a 50 minute workshop given for people 10+ years of age.
 
 ## Prep
 
-The computers will need some software installed for this to work.
+The computers will need some software installed for this to work. This release works only on Windows computers.
+
+1. Copy the zip file (that is part of the release) into the desktop, and unpack.
+2. Run the "1 - Play Super Mario" file. Make sure you can play (hit the return key to start, left and right arrows to move).
+3. If they keys do not work, then select the `Options` -> `Button Mapping` and then configure the return and left and right button. Even thought they look correct!
+4. I would suggest testing the rest to make sure they worked as expected so there are no suprised during the tutorial.
 
 ## During the 50 Minutes
 
 | Time (minutes) | Description |
 | :-----------------: | ---------- |
-| 0-5 | Kids get settled, use slide on screen to have them double click on the plain SM game to start|
+| 0-5 | Everyone get settled, use slide on screen to have them double click on the plain SM game to start|
 | 5-10 | Have everyone play the game. Especially new people. Watch yourself as you learn. Slide on basics of hwo to play and the goal of the game. |
-| 10-15 | Some discussion of how learning works. Looking for the following XXXX |
+| 10-15 | Some discussion of how learning works. Repetition, talking to partners, watching others, trying & failing. |
 | 15-20 | Intro machine learning - a simple slide talking about repetitive learning. |
 | 20-25 | Have kids start the learning thing and watch it for a few minutes. |
 | 25-30 | Slides on rain in Seattle (and football). Predict rain. Have them guess the next year's rain fall. Then show fitting. Talk about how it is a really simple math equation. |
