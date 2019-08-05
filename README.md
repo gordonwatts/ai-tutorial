@@ -1,6 +1,10 @@
 # Introduction
 
-Plan for a 50 minute workshop given for people 10+ years of age.
+Plan for a 40 minute workshop given for people 10+ years of age. They:
+
+1. Play Super Mario in an emulator to learn how to play it (and perhaps to identify how they learn how to play it)/
+2. Use a Genetic Algortihm to train the computer to play. This first one is visual - they can watch the game played (and Mario die) over and over.
+3. Use a Genetic Algorithm that runs much faster (and no visual feedback) to see how far they can get.
 
 ## Goals
 
