@@ -32,6 +32,10 @@ The computers will need some software installed for this to work. This release w
 
 ## History
 
+| When | Where |
+| ---- | ----- |
+| July 28, 2019 | WOMAD Music Festival, 20 kids, 10 computer stations, a large screen up front to project on, and 4 people other than the presenter helping the kids out when something didn't work.  |
+
 ## Sources
 
 - https://github.com/AdityaGupta1/waluig-IO
